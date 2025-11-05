@@ -26,15 +26,15 @@ export default function Hero({ onNavigate }: HeroProps) {
             </div>
           </div>
 
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
+          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-green-600 mb-6 leading-tight">
             Žalias Generatorius
           </h1>
 
-          <p className="text-2xl md:text-3xl text-green-600 mb-4 font-light">
+          <p className="text-2xl md:text-3xl text-gray-900 mb-4 font-light">
             Tvarus, tylus ir galingas energijos šaltinis
           </p>
 
-          <p className="text-xl md:text-2xl text-green-600 mb-12 font-medium">
+          <p className="text-xl md:text-2xl text-gray-900 mb-12 font-medium">
             Iš atnaujintų elektromobilių baterijų — patikimumas ir tvarumas
           </p>
 
