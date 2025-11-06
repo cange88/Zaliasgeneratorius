@@ -23,7 +23,7 @@ export default function Hero({ onNavigate }: HeroProps) {
             <img
               src="/9546F775-108C-4B48-90B5-1BB5BD2EA1F2.png"
               alt="Žalias Generatorius"
-              className="w-full max-w-2xl h-auto rounded-lg shadow-lg"
+              className="w-full max-w-2xl h-auto"
             />
           </div>
 
