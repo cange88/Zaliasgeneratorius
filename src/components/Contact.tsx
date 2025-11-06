@@ -4,12 +4,9 @@ export default function Contact() {
   return (
     <div className="py-16 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-          Susisiekite dėl Generatorių Nuomos
+        <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">
+          Kontaktai
         </h2>
-        <p className="text-lg text-gray-600 mb-8">
-          Užsisakykite power banką renginiams, statyboms ar elektros įvado galios kėlimui
-        </p>
 
         <div className="max-w-4xl mx-auto">
           <div className="grid md:grid-cols-2 gap-8 mb-8">

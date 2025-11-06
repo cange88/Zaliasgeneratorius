@@ -27,19 +27,19 @@ export default function Hero({ onNavigate }: HeroProps) {
           </div>
 
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-green-600 mb-6 leading-tight">
-            Generatorių Nuoma Renginiams
+            Žalias Generatorius
           </h1>
 
           <p className="text-2xl md:text-3xl text-gray-900 mb-4 font-light">
-            Power Bankas su Akumuliatoriais - Ekologiška Alternatyva
+            Tvarus, tylus ir galingas energijos šaltinis
           </p>
 
           <p className="text-xl md:text-2xl text-gray-900 mb-12 font-medium">
-            Tvaresnė alternatyva dyzeliniam ir benzininiam generatoriui
+            Iš atnaujintų elektromobilių baterijų — patikimumas ir tvarumas
           </p>
 
           <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto mb-12 leading-relaxed">
-            Profesionali generatorių nuoma renginiams, statyboms ir elektros įvado galios kėlimui. Power bankas su akumuliatoriais - tylus, ekologiškas ir galingas. Idealus ten, kur reikalinga renginių įranga be triukšmo ir dūmų.
+            Nuomojamas energijos šaltinis - idealus sprendimas renginiams ir statyboms, ypač ten, kur elektros įvado nėra arba jis yra nepakankamas.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

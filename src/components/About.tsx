@@ -25,14 +25,13 @@ export default function About() {
         <div className="max-w-4xl mx-auto">
           <div className="bg-white rounded-2xl shadow-lg p-8 md:p-10 border border-green-100">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-              Generatorių Nuoma - Ekologiška Alternatyva
+              Kodėl pasirinkti mus
             </h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              Žalias Generatorius siūlo power banko su akumuliatoriais nuomą - ekologišką alternatyvą
-              dyzeliniam ir benzininiam generatoriui. Mūsų renginių įranga puikiai tinka renginiams,
-              statyboms ir elektros įvado galios kėlimui. Tylus, be dūmų ir kvapo sprendimas,
-              naudojantis atnaujintas elektromobilių baterijas. Profesionali generatorių nuoma
-              Šiaulių apskrityje ir visoje Lietuvoje.
+              Žalias Generatorius siekia skatinti švarią energiją Lietuvoje. Naudojame atnaujintas
+              EV baterijas, kad pasiūlytume tylų, efektyvų ir ekologišką energijos šaltinį.
+              Mūsų tikslas – padėti jums būti nepriklausomais nuo tinklo, išlaikant maksimalų
+              patogumą ir saugumą.
             </p>
             <div className="grid md:grid-cols-3 gap-6">
               {values.map((value, index) => {
