@@ -40,6 +40,7 @@ export default function Navigation({ currentSection, onNavigate }: NavigationPro
             <button
               onClick={() => scrollToSection('home')}
               className="text-xl font-bold text-green-600 hover:text-green-700 transition-colors"
+              style={{ fontFamily: "'Playfair Display', serif" }}
             >
               Žalias Generatorius
             </button>
