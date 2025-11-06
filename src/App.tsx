@@ -18,12 +18,12 @@ function App() {
         <Hero onNavigate={setCurrentSection} />
       </div>
 
-      <div id="features" className="section">
-        <Features />
-      </div>
-
       <div id="use-cases" className="section">
         <UseCases />
+      </div>
+
+      <div id="features" className="section">
+        <Features />
       </div>
 
       <div id="pricing" className="section">
